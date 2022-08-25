@@ -1,0 +1,10 @@
+body {
+    background-image: url("2016whitefordfusion.png");
+}
+h1 {
+    color:blueviolet;
+    text-align:center;
+}
+* {
+    box-sizing: border-box;
+  }
